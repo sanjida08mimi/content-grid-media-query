@@ -1,0 +1,26 @@
+
+.img-box img{
+    width: 100%;
+} 
+.min-h{
+    height: 400px;
+} 
+.images{
+    padding: 50px 0;
+}
+.container1{
+    margin: 0 auto;
+    overflow: hidden;
+    width: 960px;
+}
+
+.box{
+    box-sizing: border-box;
+    float: left;
+    width:25%;
+    padding:3px 3px;
+} 
+
+.box img{
+    width: 100%;
+}
